@@ -9,3 +9,16 @@ This project implements a basic calculator using Python, designed to perform fun
 
 Perfect as a beginner-friendly Python project to practice conditional statements, user input handling, and arithmetic operations.
 
+## HOW to SOlVE THIS PYTHON QUESTION:-
+### Step 1: Get user input
+Ask user to enter two numbers.
+Ask user to choose an operation (like +, -, *, /).
+
+## Step 2: Perform calculation
+Use if or elif statements to match the operation.
+Calculate based on user’s choice.
+Handle division by zero safely.
+
+## Step 3: Display result
+Print the result clearly with the equation.
+
