@@ -11,14 +11,14 @@ Perfect as a beginner-friendly Python project to practice conditional statements
 
 ## HOW to SOlVE THIS PYTHON QUESTION:-
 ### Step 1: Get user input
-Ask user to enter two numbers.
-Ask user to choose an operation (like +, -, *, /).
+1. Ask user to enter two numbers.
+2. Ask user to choose an operation (like +, -, *, /).
 
-## Step 2: Perform calculation
-Use if or elif statements to match the operation.
-Calculate based on user’s choice.
-Handle division by zero safely.
+### Step 2: Perform calculation
+1. Use if or elif statements to match the operation.
+2. Calculate based on user’s choice.
+3. Handle division by zero safely.
 
-## Step 3: Display result
-Print the result clearly with the equation.
+### Step 3: Display result
+1. Print the result clearly with the equation.
 
